@@ -9,7 +9,7 @@ All figures and results in the tutorial are fully reproducible using the provide
 
 Repository Structure
 ├── notebooks/
-│   └── optimizer_bias_analysis.ipynb
+│   └── jaseer_ml_code.ipynb
 │
 ├── figures/
 │   └── (generated figures – optional)
@@ -61,7 +61,7 @@ How to Run
 
 Clone the repository:
 
-git clone
+git clone https://github.com/Jasser-ds/machine-learning.git
 cd machine learning
 
 
